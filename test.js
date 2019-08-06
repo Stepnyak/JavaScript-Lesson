@@ -10,3 +10,4 @@ mainList = { "Бюджет": 5000,"Имя магазина":'Лакомка',Sta
 console.log(mainList);
 console.log(mainList.shopGoods);
 console.log(mainList.open());
+console.log(mainList.Staff)
